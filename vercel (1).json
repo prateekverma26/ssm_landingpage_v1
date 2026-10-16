@@ -1,0 +1,10 @@
+{
+  "cleanUrls": false,
+  "rewrites": [
+    { "source": "/", "destination": "/SSM Site.dc.html" },
+    { "source": "/testimonials", "destination": "/Testimonials.dc.html" },
+    { "source": "/publications", "destination": "/Publications.dc.html" },
+    { "source": "/sit", "destination": "/SIT.dc.html" },
+    { "source": "/login", "destination": "/Login.dc.html" }
+  ]
+}
